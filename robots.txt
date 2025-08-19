@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://aenulltech.com/sitemap.xml
